@@ -1,0 +1,401 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: U.S. Geological Survey
+        Publication_Date: 201504
+        Title: 1:1,000,000-Scale Urban Areas of the United States 
+        Geospatial_Data_Presentation_Form: Vector digital data
+        Publication_Information:
+          Publication_Place: Rolla, MO
+          Publisher: National Geospatial Program, The National Map Small Scale
+        Online_Linkage: http://nationalmap.gov/small_scale/atlasftp.html
+
+    Description:
+      Abstract:
+        This data set includes urban areas in the United States, Puerto Rico, and the U.S. Virgin Islands.  
+        The data were derived from the 2010 TIGER/Line Urban Areas data set produced by the U.S. Census 
+        Bureau.  The Census Bureau defines urban areas as places that represent densely developed 
+        territory, encompassing residential, commercial, and other nonresidential urban land uses.  In 
+        general, these places consist of areas of high population density and urban land use.  
+        
+      Purpose:
+        These data are intended for geographic display and analysis at the national level, and for large 
+        regional areas.  The data should be displayed and analyzed at scales appropriate 
+        for 1:1,000,000-scale data.  No responsibility is assumed by the U.S. Geological Survey in the use 
+        of these data.
+
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 201504
+      Currentness_Reference: Publication date
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: None planned
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -166
+        East_Bounding_Coordinate: -64
+        North_Bounding_Coordinate: 72
+        South_Bounding_Coordinate: 17
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: society
+
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: UA 
+        Theme_Keyword: UC 
+        Theme_Keyword: Urban Cluster 
+        Theme_Keyword: Urbanized Areas 
+        Theme_Keyword: Populated places
+        Theme_Keyword: Urban areas
+
+      Theme:
+        Theme_Keyword_Thesaurus: The National Map Type Thesaurus
+        Theme_Keyword: Downloadable Data
+      Theme:
+        Theme_Keyword_Thesaurus: The National Map Theme Thesaurus
+        Theme_Keyword: Small-scale Datasets
+      Theme:
+        Theme_Keyword_Thesaurus: The National Map Product Extent Thesaurus
+        Theme_Keyword: National
+      Theme:
+        Theme_Keyword_Thesaurus: The National Map Product Format Thesaurus
+        Theme_Keyword: Shapefile
+        Theme_Keyword: FileGDB 10.0
+      Place:
+        Place_Keyword_Thesaurus:
+          Organization for International Standards, 2008, ISO 3166 Country Codes,
+          https://www.iso.org/obp/ui/#search.
+        Place_Keyword: United States
+        Place_Keyword: US
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce; 2013; American National Standards Institute (ANSI) Codes for States, 
+          the District of Columbia, Puerto Rico, and the Insular Areas of the United States; 
+          Washington, DC; U.S. Census Bureau; http://www.census.gov/geo/reference/ansi_statetables.html.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+        Place_Keyword: Puerto Rico
+        Place_Keyword: Virgin Islands
+        Place_Keyword: U.S. Virgin Islands
+    Access_Constraints: None
+    Use_Constraints:
+      None.  Acknowledgment of the National Geospatial Program, The National Map Small Scale and (or) 
+      the U.S. Geological Survey would be appreciated in products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: National Geospatial Program, The National Map Small Scale
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: tnm_help@usgs.gov
+
+    Native_Data_Set_Environment:
+      Microsoft Windows 7 Enterprise, Service Pack 1; ArcGIS Desktop 10.0 Service Pack 5 (Build 4400)
+
+  Data_Quality_Information:
+    Logical_Consistency_Report:
+      No additional checks for topological consistency were performed on this data set.
+    Completeness_Report: 
+      This data set contains urban areas for the 50 United States, Puerto Rico, and the U.S. Virgin 
+      Islands.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Department of Commerce, U.S. Census Bureau, Geography Division
+            Publication_Date: 2014
+            Title: TIGER/Line Shapefile, 2014, 2010 nation, U.S., 2010 Census Urban Area National
+            Publication_Information:
+              Publication_Place: Suitland, MD
+              Publisher: U.S. Census Bureau
+            Online_Linkage: http://www2.census.gov/geo/tiger/TIGER2014/UAC/
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2014
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: 2010 Census
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201403
+            Title: 1:1,000,000-Scale Waterbodies and Wetlands of the United States
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: http://nationalmap.gov/small_scale/atlasftp.html
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201403
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas Waterbodies
+        Source_Contribution: Spatial information 
+
+      Process_Step:
+        Process_Description:
+          The 2010 Census data were generalized to eliminate narrow areas that only served as connections 
+          between large urban areas, and to eliminate outlying areas that were smaller than 320 acres.  
+          Small areas that were within 300 meters of larger urban areas were merged with the larger areas; 
+          small, non-urban areas within urban areas were merged with the urban areas.  Water areas larger 
+          than 320 acres, within the urban areas, were clipped out using the National Atlas Waterbodies 
+          data as a mask.  Additional attributes were added for the State abbreviation and to describe the 
+          urban area type.  Other attributes were adjusted as necessary.  Urban areas with several pieces 
+          were merged into multi-part features.
+
+          The map layer was saved in shapefile and in file geodatabase formats.
+        Source_Used_Citation_Abbreviation: 2010 Census
+        Source_Used_Citation_Abbreviation: National Atlas Waterbodies
+        Process_Date: 201503
+
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+        Point_and_Vector_Object_Count: 3593
+
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.02083333
+        Longitude_Resolution: 0.02083333
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: Geodetic Reference System 80
+        Semi-major_Axis: 6378137.0
+        Denominator_of_Flattening_Ratio: 298.2572221
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Urban Areas 
+        Entity_Type_Definition: 
+          A densely developed territory, encompassing residential, commercial, and other nonresidential 
+          urban land uses, generally having high population density.   
+        Entity_Type_Definition_Source: U.S. Geological Survey
+      Attribute:
+        Attribute_Label: Fid
+        Attribute_Definition: Internal identification number
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 3592
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Polygon
+            Enumerated_Domain_Value_Definition: A 2-dimensional element.
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Uace10
+        Attribute_Definition: 2010 Census urban area code
+        Attribute_Definition_Source: National Geospatial Program, The National Map Small Scale
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 00037
+            Range_Domain_Maximum: 98263
+      Attribute:
+        Attribute_Label: UA_Label
+        Attribute_Definition: The 2010 Census name for the urban area.
+        Attribute_Definition_Source: National Geospatial Program, The National Map Small Scale
+        Attribute_Domain_Values:
+          Unrepresentable_Domain:
+            There is no predefined set of valid urban area names.  UA_Label is taken from the source file 
+            and generally represents the most significant place or places that are in the polygon.
+      Attribute:
+        Attribute_Label: State
+        Attribute_Definition:
+          The 2-character FIPS code of the State or State equivalent.  Where the urban area falls in more 
+          than one State, the codes are separated by dashes: DC-VA-MD.
+        Attribute_Definition_Source: National Geospatial Program, The National Map Small Scale
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              American National Standards Institute (ANSI) Codes for States, the District of Columbia, 
+              Puerto Rico, and the Insular Areas of the United States
+            Codeset_Source: U.S. Census Bureau
+      Attribute:
+        Attribute_Label: Type
+        Attribute_Definition: In indication of whether the area is an urbanized area or an urban cluster.
+        Attribute_Definition_Source: National Geospatial Program, The National Map Small Scale
+        Attribute_Domain_Values: 
+          Enumerated_Domain: 
+            Enumerated_Domain_Value: UA
+            Enumerated_Domain_Value_Definition: 
+              The area is an urbanized area, with a population of more than 50,000 people.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Geospatial Program, The National Map Small Scale
+        Attribute_Domain_Values: 
+          Enumerated_Domain: 
+            Enumerated_Domain_Value: UC
+            Enumerated_Domain_Value_Definition: 
+              The area is an urban cluster, with a population between 2,500 and 49,999 people.  In 
+              the U.S. Virgin Islands urban clusters may contain populations greater than 50,000 people.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Geospatial Program, The National Map Small Scale
+      Attribute:
+        Attribute_Label: GIS_acres
+        Attribute_Definition: The size of the area in acres.  This is a calculated field.
+        Attribute_Definition_Source: National Geospatial Program, The National Map Small Scale
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 203.412692
+            Range_Domain_Maximum: 2264678.36733
+      Attribute:
+        Attribute_Label: Shape_leng
+        Attribute_Definition:
+          The perimeter of the area in decimal degrees.  The values for this field are generated by ArcGIS.
+        Attribute_Definition_Source: National Geospatial Program, The National Map Small Scale
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.038049
+            Range_Domain_Maximum: 40.256841
+      Attribute:
+        Attribute_Label: Shape_area
+        Attribute_Definition:
+          The size of the area in square decimal degrees.  The values for this field are generated by 
+          ArcGIS.
+        Attribute_Definition_Source: National Geospatial Program, The National Map Small Scale
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.000077
+            Range_Domain_Maximum: 0.977915
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Explorer, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 47914 252nd Street
+          City: Sioux Falls
+          State_or_Province: SD
+          Postal_Code: 57198-0001
+        Contact_Voice_Telephone: 605-594-6116
+        Contact_Voice_Telephone: 866-573-3222
+        Contact_Electronic_Mail_Address: custserv@usgs.gov
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer system 
+      at the U.S. Geological Survey, no warranty expressed or implied is made by 
+      the U.S. Geological Survey regarding the utility of the data on any other
+      system, nor shall the act of distribution constitute any such warranty.  
+      No responsibility is assumed by the U.S. Geological Survey in the use of 
+      these data.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://nationalmap.gov/small_scale/atlasftp.html
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI File Geodatabase 10.0
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://nationalmap.gov/small_scale/atlasftp.html
+      Fees:  None
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20150401
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: National Geospatial Program, The National Map Small Scale
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: tnm_help@usgs.gov
+    Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information:
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
+
